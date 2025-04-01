@@ -1,2 +1,2 @@
-joplin
-postgres
+joplin/server:latest
+postgres:latest
