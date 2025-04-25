@@ -1,2 +1,3 @@
 joplin/server:latest
 postgres:latest
+jeessy/ddns-go:latest
